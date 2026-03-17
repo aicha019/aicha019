@@ -13,13 +13,6 @@
 - **2024** — Baccalauréat STMG — Mention
   Lycée Racine, Paris
 
-## 🎯 Formation à venir
-
-- **2026 – 2027** — DEUST Informatique d'Organisation et Systèmes d'Information (IOSI)
-  Conservatoire National des Arts et Métiers, Paris
-  - Parcours Technicien Développement, Sécurité et Exploitation
-  - Objectif : approfondir mes compétences en développement, sécurité et exploitation de systèmes
-
 ---
 
 ## 💼 Expérience
