@@ -1,12 +1,8 @@
 # Aïcha FOFANA
 
-Étudiante en Diplôme de Spécialisation Professionnelle DevOps (BAC+2) au Conservatoire National des Arts et Métiers, Paris.
-
----
-
 ## 🎓 Formations
 
-- **2025 – en cours** — Diplôme de Spécialisation Professionnelle DevOps
+- **2025 – 2026** — Diplôme de Spécialisation Professionnelle DevOps
   Conservatoire National des Arts et Métiers, Paris
 - **2024 – 2025** — 1ère année BUT Gestion des Entreprises et des Administrations
   IUT de Saint-Denis
