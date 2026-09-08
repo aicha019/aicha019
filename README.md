@@ -41,7 +41,7 @@ CLI en Node.js pour automatiser la gestion de fichiers `docker-compose.yml`.
 - Vérification des images via l'API Docker Hub
 - Journalisation automatique des modifications
 
-### ⭕ [Morpion](https://github.com/aicha019/morpion) — Jeu en C
+### ⭕ [Morpion](https://github.com/aicha019/Jeu-Morpion-Algo-en-C) — Jeu en C
 Implémentation du jeu du Morpion à deux joueurs en C, jouable dans le terminal.
 - Détection des victoires (lignes, colonnes, diagonales)
 - Validation des coups et gestion des erreurs
