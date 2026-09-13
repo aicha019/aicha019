@@ -13,14 +13,16 @@
 
 ## 💼 Expérience
 
-### 🏢 Stage — Le Garage Numérique, Paris *(2025 – en cours)*
+### 🏢 Stage — Le Garage Numérique, Paris *( Mars à Mai 2026)*
 
 Association parisienne d'aide à la réparation de PC via des systèmes Linux pour les citoyens.
 
 Missions principales :
-- Installation et configuration de systèmes Linux sur des machines
-- Création de sites internet
-- Support informatique et maintenance générale des équipements
+- Développement en Python d’un système automatisé permettant de créer, modifier et annuler des événements sur un site à partir
+d’e-mails.
+- Traitement des messages via IMAP et extraction des informations avec une API HTTP utilisant un modèle de langage, puis structuration en JSON.
+- Génération et modification de contenus Markdown pour un site Pelican, avec gestion des différents cas d’utilisation.
+- Participation à des tâches d’installation, de maintenance et de postes sous Debian.
 
 ---
 
