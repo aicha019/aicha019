@@ -1,8 +1,8 @@
 # Aïcha FOFANA
 
 ## 🎓 Formations
-
-- **2025 – 2026** — Diplôme de Spécialisation Professionnelle DevOps
+- **2026 – 2028** — BUT Informatique parcours réalisation d'applications
+- **2025 – 2026** — Diplôme de Spécialisation Professionnelle Développement et Exploitation de parcs informatiques
   Conservatoire National des Arts et Métiers, Paris
 - **2024 – 2025** — 1ère année BUT Gestion des Entreprises et des Administrations
   IUT de Saint-Denis
